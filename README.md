@@ -1,4 +1,4 @@
-#📚 Library Management System
+## 📚 Library Management System
 
 A personal library management application built with Python + Streamlit.
 
@@ -7,7 +7,7 @@ You can fetch book data from Google Books API or enter manually, track borrowed 
 
 ---
 
-#✨ Features
+## ✨ Features
 
 🔍 Search books from Google Books API
 
@@ -25,7 +25,7 @@ You can fetch book data from Google Books API or enter manually, track borrowed 
 
 ---
 
-#🛠 Tech Stack
+## 🛠 Tech Stack
 Technology	Usage
 Python	Main programming language
 Streamlit	Web UI
